@@ -32,12 +32,3 @@ This agent is built to share these ideas automatically with the world.
 
 ---
 
-## Installation / Εγκατάσταση
-
-```bash
-git clone https://github.com/asinoro/sparkethos-agent.git
-cd sparkethos-agent
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-python agent.py
